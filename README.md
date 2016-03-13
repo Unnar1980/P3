@@ -1,6 +1,6 @@
 October 2015
 
-#Arcade game clone.
+#Arcade Game Clone.
 
 This is an independent version of the classic game Frogger.
 
