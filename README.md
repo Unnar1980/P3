@@ -1,6 +1,7 @@
 October 2015
 
 #Arcade Game Clone.
+This is a project done by Unnar Thor Bachmann in the Udacity's front-developing course.
 
 This is an independent version of the classic game Frogger.
 
